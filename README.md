@@ -5,6 +5,6 @@
 - 📫 How to reach me ...telegram id @rockyu
 
 <!---
-Abhish-jpg/Abhish-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abhish-wol/Abhish-wolis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
